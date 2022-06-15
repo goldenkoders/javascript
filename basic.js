@@ -4,6 +4,7 @@ function login() {
 /* let, const */
 // let a = 5;
 // let b = 10;
+// let c = 12.5;
 // let isMarried = false;
 // let x = 25;
 // let y = 15;
